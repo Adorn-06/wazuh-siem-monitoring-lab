@@ -1,1 +1,1 @@
-# Projects
+# wazuh-siem-monitoring-lab
