@@ -1,1 +1,6 @@
-
+<group name="syscheck,custom_fim">
+<rule id="100500" level="14">
+<if_sid>550</if/sid> <!default file modified SID -->
+<description>CRITICAL: A monitored file system file $(file) has been modified</description>
+</rule>
+</group>
