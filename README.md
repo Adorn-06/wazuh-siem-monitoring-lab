@@ -84,7 +84,7 @@ The main objectives of this lab were to:
 
 The lab architecture consists of monitored endpoints, Wazuh components, security-event processing, alert generation, visualization, and SOC investigation.
 
-![Wazuh SIEM Architecture](Architecture/Wazuh-Architecture.png)
+[Wazuh SIEM Architecture](./Architecture/Wazuh-Architecture.png)
 
 ### Architecture Flow
 
@@ -183,7 +183,7 @@ Repeated authentication failures were generated in the controlled environment an
 * Alert details
 * Event patterns
 
-📄 [Brute-Force Investigation](investigations/brute-force.md)
+
 
 ---
 
@@ -205,7 +205,7 @@ tasklist
 
 The resulting telemetry was reviewed to determine whether the activity was visible and/or generated a Wazuh alert.
 
-📄 [Discovery Investigation](investigations/discovery.md)
+
 
 ---
 
@@ -224,7 +224,7 @@ The investigation documented:
 
 The documentation distinguishes between **expected behavior and actual observed results**.
 
-📄 [Defense-Evasion Investigation](investigations/defense-evasion.md)
+
 
 ---
 
@@ -234,7 +234,7 @@ Custom Wazuh rules were used where applicable to test detection logic against sp
 
 The custom rule configuration is available here:
 
-📄 [`detection-rules/custom-rules.xml`](detection-rules/custom-rules.xml)
+📄 [`detection-rules/custom-rules.xml`](Detection-Rule)
 
 Each detection should be documented with:
 
