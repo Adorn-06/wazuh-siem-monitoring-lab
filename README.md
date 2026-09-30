@@ -281,11 +281,11 @@ The investigation focused on information such as:
 * Timestamp
 * Alert details
 
-📄 [File Integrity Monitoring](./Screenshots/File-Monitoring-Rule.png)
+📄 [File Integrity Monitoring](./Screenshots/File-Monitoring-Rule.jpeg)
 
 ### Evidence
 
-![Wazuh FIM Alert](screenshots/File-Integrity-Alert.png)
+![Wazuh FIM Alert](screenshots/File-Integrity-Alert.jpeg)
 
 ---
 
