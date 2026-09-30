@@ -412,31 +412,23 @@ All screenshots are intended to demonstrate activities performed within the cont
 wazuh-siem-monitoring-lab/
 │
 ├── README.md
+├── Wazuh Report.pdf
 │
-├── architecture/
-│   └── wazuh-lab-architecture.png
+├── Architecture/
+│   └── Wazuh-Architecture.png
 │
-├── detection-rules/
+├── Detection-Rule/
 │   └── custom-rules.xml
 │
-├── investigations/
-│   ├── brute-force.md
-│   ├── discovery.md
-│   └── defense-evasion.md
-│
-├── file-integrity-monitoring/
-│   └── fim.md
-│
-├── screenshots/
-│   ├── dashboard.png
-│   ├── alerts.png
-│   └── fim-alert.png
-│
-├── mitre-mapping/
-│   └── attack-mapping.md
-│
-└── commands/
-    └── test-commands.md
+└── Screenshots/
+    ├── Brute-Force Log.png
+    ├── Custom-Rule.png
+    ├── Defence Evasion Attempt.png
+    ├── Defence Evasion Log.png
+    ├── Discovery Activity Attempt.png
+    ├── Discovery Activity Log.png
+    ├── File-Integrity-Alert.jpeg
+    └── File-Monitoring-Rule.jpeg
 ```
 
 ---
