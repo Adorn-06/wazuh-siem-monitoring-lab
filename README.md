@@ -234,7 +234,7 @@ Custom Wazuh rules were used where applicable to test detection logic against sp
 
 The custom rule configuration is available here:
 
-📄 [`Custom-rules.xml`](Detection-Rule)
+📄 [`Custom-rules.xml`](./Screenshots/File-Monitoring-Rule.png)
 
 Each detection should be documented with:
 
