@@ -234,7 +234,7 @@ Custom Wazuh rules were used where applicable to test detection logic against sp
 
 The custom rule configuration is available here:
 
-📄 [`detection-rules/custom-rules.xml`](Detection-Rule)
+📄 [`Custom-rules.xml`](Detection-Rule)
 
 Each detection should be documented with:
 
@@ -281,7 +281,7 @@ The investigation focused on information such as:
 * Timestamp
 * Alert details
 
-📄 [FIM Documentation](file-integrity-monitoring/fim.md)
+📄 [File Intergrity Monitoring](./Screenshots/File-Monitoring-Rule.png)
 
 ### Evidence
 
@@ -328,13 +328,11 @@ The dashboard provided visibility into:
 * File integrity events
 * Detection information
 
-### Dashboard Evidence
 
-![Wazuh Dashboard](screenshots/dashboard.png)
 
 ### Alert Evidence
 
-![Wazuh Alerts](screenshots/alerts.png)
+![Wazuh Alerts](./Screenshots/)
 
 ---
 
@@ -362,7 +360,7 @@ The testing documentation records:
 * Observed telemetry
 * Detection result
 
-📄 [Test Commands](commands/test-commands.md)
+
 
 ---
 
@@ -388,7 +386,7 @@ MITRE ATT&CK Technique
 ATT&CK Tactic
 ```
 
-📄 [MITRE ATT&CK Mapping](mitre-mapping/attack-mapping.md)
+
 
 The mapping is based on the behavior actually observed during the controlled lab tests rather than assigning techniques solely based on the command name.
 
