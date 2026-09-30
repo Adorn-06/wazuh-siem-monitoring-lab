@@ -84,7 +84,7 @@ The main objectives of this lab were to:
 
 The lab architecture consists of monitored endpoints, Wazuh components, security-event processing, alert generation, visualization, and SOC investigation.
 
-![Wazuh SIEM Architecture](architecture/wazuh-lab-architecture.png)
+![Wazuh SIEM Architecture](Architecture/Wazuh Architecture.png)
 
 ### Architecture Flow
 
