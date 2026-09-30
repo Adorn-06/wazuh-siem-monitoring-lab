@@ -234,7 +234,7 @@ Custom Wazuh rules were used where applicable to test detection logic against sp
 
 The custom rule configuration is available here:
 
-📄 [`Custom-rules.xml`](./Screenshots/File-Monitoring-Rule.png)
+📄 [`Custom Alert rule`](./Screenshots/Custom-Rule.png)
 
 Each detection should be documented with:
 
@@ -281,11 +281,11 @@ The investigation focused on information such as:
 * Timestamp
 * Alert details
 
-📄 [File Intergrity Monitoring](./Screenshots/File-Monitoring-Rule.png)
+📄 [File Integrity Monitoring](./Screenshots/File-Monitoring-Rule.png)
 
 ### Evidence
 
-![Wazuh FIM Alert](screenshots/fim-alert.png)
+![Wazuh FIM Alert](screenshots/File-Integrity-Alert.png)
 
 ---
 
@@ -330,9 +330,9 @@ The dashboard provided visibility into:
 
 
 
-### Alert Evidence
+### Testing & Alerts Evidence
 
-![Wazuh Alerts](./Screenshots/)
+![Evidence](./Screenshots/)
 
 ---
 
